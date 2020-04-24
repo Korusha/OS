@@ -1,0 +1,5 @@
+#!/bin/bash
+pwd
+ls
+cd /home/suzen
+ls
