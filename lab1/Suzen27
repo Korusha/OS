@@ -1,2 +1,4 @@
 #!/bin/bash
 tail -f diary | grep FLAG
+#!/bin/bash
+tail -f diary

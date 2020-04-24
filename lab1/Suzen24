@@ -1,0 +1,7 @@
+#!/bin/bash
+mkdir Music
+cp -r Desktop/music/* Music
+cd ./Music
+ls
+cd /home/suzen
+ls
